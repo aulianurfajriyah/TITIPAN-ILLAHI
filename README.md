@@ -1,8 +1,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="logo.png"></a>
-       <h3>Relit</h3>
+      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img align='center' src="logo.png"></a>
+       <h3 align='center'>Relit</h3>
     </td>
   </tr>
 </table>
