@@ -63,11 +63,11 @@
     }
     if ($("#transaction-history").length) {
       var areaData = {
-        labels: ["Oppo-ID", "Samsung-ID","Other"],
+        labels: ["Laptop Battery", "Lithium Battery","Handphone", "Other"],
         datasets: [{
-            data: [10, 30, 20],
+            data: [10, 30, 20, 5],
             backgroundColor: [
-              "#111111","#00d25b","#ffab00"
+              "#111111","#00d25b","#ffab00", "##f96868"
             ]
           }
         ]
