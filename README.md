@@ -7,7 +7,14 @@
   </tr>
 </table>
 
-<h1>Relit</h1>
+<h2 align="center">Team Members</h2>
+<p align="center">Hafiz Akhdani</p>
+<p align="center">Aisya Rahmadani HumaningAyu</p>
+<p align="center">Aulia Nur Fajriyah</p>
+<p align="center">Ahmad Yazid Naufan</p>
+<br/>
+
+<h1 align='center'>Relit</h1>
 #insert description here
 
 <h1>Credits:</h1>
