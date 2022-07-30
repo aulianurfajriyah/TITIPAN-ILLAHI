@@ -1,4 +1,4 @@
-<table>
+<table align='center'>
   <tr>
     <td>
       <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img align='center' src="logo.png"></a>
