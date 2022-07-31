@@ -33,6 +33,14 @@ body {
   position: relative;
   padding: 5px 41px;
   justify-content: center;
+  background-color: rgba(255, 255, 255, 0);
+  font-size: 20px;
+  font-family: Montserrat;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.8);
+}
+.nav-item-div4:hover {
+  background-color: #9188c3;
 }
 .containernav-div,
 .header,
@@ -95,9 +103,8 @@ body {
   font-size: 28px;
   font-weight: 600;
   font-family: Poppins;
-  color: #e04815;
+  color: #fff;
   text-align: left;
-  display: inline-block;
 }
 .buttonbutton-flex {
   cursor: pointer;
